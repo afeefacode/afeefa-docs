@@ -4,6 +4,8 @@
    :hidden:
    :maxdepth: 2
 
+   create_docs
+
 Indices and tables
 ==================
 

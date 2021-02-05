@@ -25,8 +25,9 @@ from pygments.lexers.web import PhpLexer
 # -- Project information -----------------------------------------------------
 
 project = 'afeefa/afeefa-docs'
-copyright = '2021, Afeefa Kollektiv'
 author = 'Afeefa Kollektiv'
+copyright = author
+language = 'en'
 
 
 # -- General configuration ---------------------------------------------------
