@@ -1,11 +1,8 @@
 {
     "name": "afeefa/afeefa-docs",
     "version": "0.0.1",
-    "description": "Documentation for all afeefa projects",
+    "description": "Documentation root for all afeefa projects",
     "type": "metapackage",
-    "require-dev": {
-        "afeefa/package-manager": "^0"
-    },
     "license": "MIT",
     "authors": [
         {
