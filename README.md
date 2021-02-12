@@ -13,7 +13,7 @@ This is the documentation base for all afeefa packages.
 ## afeefa/cli-app
 
 * Github: [afeefacode/cli-app](https://github.com/afeefacode/cli-app)
-* Read the Docs:
+* Read the Docs: [afeefa-cli-app](https://afeefa-cli-app.readthedocs.io)
 * Packagist: [afeefa/cli-app](https://packagist.org/packages/afeefa/cli-app)
 
 ## afeefa/debug-dump-log
