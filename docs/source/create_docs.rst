@@ -96,6 +96,7 @@ Adding docs to RtD
 * Create an account on RtD and log in
 * Grant RtD access to your team's Github, Bitbucket or Gitlab account
 * Click **Import a project** and follow the instructions
+* Disable PDF and EPub build at projects **advanced settings** to avoid unnecessary docs generations.
 
 `Import Guide <https://docs.readthedocs.io/en/stable/intro/import-guide.html>`_
 
